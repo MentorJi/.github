@@ -1,4 +1,3 @@
-
 # MentorJi
 
 ![MentorJi Logo](https://mentorji.live/store/1/light-170w-40h.png)
@@ -34,6 +33,29 @@ At MentorJi, Our vision is simple yet profound:
 - [Today in History](https://youtube.com/playlist?list=PL35CWG1_rR5Ou_bXJ2wHRFR0dkvR5Qlzp&feature=shared)
 - [Today's Special](https://www.youtube.com/playlist?list=PL35CWG1_rR5OX0lLjRy1T7ZDdq9h-bmEY)
 
+## 📙 HIGH QUALITY MOCK TEST SERIES
+- [All Free Test Series](https://mentorji.live/test-series)
+- [NEET Test Series](https://mentorji.live/test-series?cat...)
+- [JEE Test Series](https://mentorji.live/test-series?cat...)
+- [CUET Test Series](https://mentorji.live/test-series?cat...)
+- [Previous Year Question Papers for Practice](https://mentorji.live/test-series)
+- [Sample Question Papers for Practice](https://mentorji.live/test-series)
+- [All Free Courses](https://mentorji.live/classes)
+
+## 📙 FREE STUDY MATERIAL
+- [All Study Material](https://mentorji.live/study-material)
+- [Daily Free Current affairs with Video Explanation](https://mentorji.live/current-affairs)
+- [Daily Updates & Blogs](https://mentorji.live/blog)
+- [All Free Courses](https://mentorji.live/classes)
+
+## 🧑🏻‍🏫 DOUBT SESSIONS
+- [All Mentors](https://mentorji.live/instructors)
+- [Book your Private Doubt Session](https://mentorji.live/instructor-find...)
+- [All Free Courses](https://mentorji.live/classes)
+
+## 🔴 DAILY LIVE & DOUBT CLASSES
+- [YouTube - MentorJi Live](https://www.youtube.com/@mentorjilive/streams)
+
 ## 🌐 SOCIAL MEDIA & OTHER
 - Website: [www.mentorji.live](https://www.mentorji.live)
 - Telegram: [MentorJi Live](https://t.me/mentorjilive)
@@ -52,4 +74,4 @@ At MentorJi, Our vision is simple yet profound:
 
 ## 🌟 Join us on this extraordinary educational journey! 🌟
 
-
+---
