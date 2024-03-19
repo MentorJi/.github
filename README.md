@@ -1,5 +1,3 @@
-# .github
-MentorJi - Your Ultimate Learning Partner
 
 # MentorJi
 
@@ -54,7 +52,4 @@ At MentorJi, Our vision is simple yet profound:
 
 ## 🌟 Join us on this extraordinary educational journey! 🌟
 
----
-
-Feel free to customize this README file according to your needs and preferences!
 
